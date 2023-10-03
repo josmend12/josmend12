@@ -2,7 +2,7 @@
 - 👀 I’m interested coding and taking my future to another level
 - 🌱 I’m currently learning the c coding language at Washington State University
 - 💞️ I’m looking to collaborate on projects that could help build my resume and my knowledge
-- 📫 How to reach me ... email: josmend1217@gmail.com
+- 📫 How to reach me ... email: josue.n.mendoza@wsu/edu
 
 <!---
 josmend12/josmend12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
